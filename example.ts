@@ -5,4 +5,3 @@ console.log(newNamme.toUpperCase())
 
 let age:number = 54
 let project:boolean =true
-let data;   
